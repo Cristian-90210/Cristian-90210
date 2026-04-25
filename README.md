@@ -24,12 +24,12 @@
 <div align="center">
 
   <!-- PRIMELE 2 (sus) -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" height="350"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" height="250"/>
 
-  <img src="https://streak-stats.demolab.com/?user=Cristian-90210&theme=github_dark_dimmed&hide_border=false" height="350"/>
+  <img src="https://streak-stats.demolab.com/?user=Cristian-90210&theme=github_dark_dimmed&hide_border=false" height="250"/>
 
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="1000"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 
 </div>
 
