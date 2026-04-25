@@ -33,7 +33,7 @@
 
 </div>
 
-  ![snake gif](https://github.com/Cristian-90210/Cristian-90210/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Cristian-90210/Cristian-90210/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">🌐 Socials</h2>
 <div align="center">
