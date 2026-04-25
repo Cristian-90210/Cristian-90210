@@ -33,7 +33,12 @@
 
 </div>
 
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Cristian-90210/Cristian-90210/output/snake-dark.svg"
+    alt="Snake animation"
+  />
+</p>
 
 <h2 align="center">🌐 Socials</h2>
 <div align="center">
