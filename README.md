@@ -24,20 +24,33 @@
 <div align="center">
 
   <!-- PRIMELE 2 (sus) -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" height="350"/>
 
-  <img src="https://streak-stats.demolab.com/?user=Cristian-90210&theme=github_dark_dimmed&hide_border=false" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Cristian-90210&theme=github_dark_dimmed&hide_border=false" height="350"/>
 
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="750"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="1000"/>
 
 </div>
 
 
 <h2 align="center">🌐 Socials</h2>
 <div align="center">
-  
+
+
+  <p align="center">
+  <a href="https://github.com/users/MihaiMusteata/contributions" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Cristian-90210/Cristian-90210/output/snake-dark.svg"
+      alt="Snake animation"
+    />
+  </a>
+</p>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_p.cristian_7) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-postolache-027845369/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:postcrist@gmail.com) 
 </div>
+
+
+
