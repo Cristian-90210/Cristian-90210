@@ -24,24 +24,16 @@
 <div align="center">
 
   <!-- PRIMELE 2 (sus) -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" height="250"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
 
-  <img src="https://streak-stats.demolab.com/?user=Cristian-90210&theme=github_dark_dimmed&hide_border=false" height="250"/>
+  <img src="https://streak-stats.demolab.com/?user=Cristian-90210&theme=github_dark_dimmed&hide_border=false" height="150"/>
 
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cristian-90210&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 
 </div>
 
-  <p align="center">
-  <a href="https://github.com/users/MihaiMusteata/contributions" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Cristian-90210/Cristian-90210/output/snake-dark.svg"
-      alt="Snake animation"
-    />
-  </a>
-</p>
-
+  ![snake gif](https://github.com/Cristian-90210/Cristian-90210/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">🌐 Socials</h2>
 <div align="center">
