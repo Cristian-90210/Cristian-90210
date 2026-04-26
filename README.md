@@ -33,6 +33,41 @@
 
 </div>
 
+
+<h2 align="center">📌 Pinned Repositories</h2>
+
+
+<div align="center">
+
+<a href="https://github.com/Cristian-90210/AtlantisSwim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cristian-90210&repo=AtlantisSwim&theme=tokyonight&show_owner=true" />
+</a>
+<a href="https://github.com/Cristian-90210/bot-telegram-IAFPS-2025">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cristian-90210&repo=bot-telegram-IAFPS-2025&theme=tokyonight&show_owner=true" />
+</a>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-86.8%25-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-12.4%25-239120?style=flat&logo=csharp&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat&logo=python&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/Cristian-90210/Prezenta-LT-Ion-Pelivan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cristian-90210&repo=Prezenta-LT-Ion-Pelivan&theme=tokyonight&show_owner=true" />
+</a>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-70.4%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-22.6%25-3178C6?style=flat&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-6.9%25-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0.1%25-E34F26?style=flat&logo=html5&logoColor=white)
+
+</div>
+
+
+
+
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Cristian-90210/Cristian-90210/output/snake-dark.svg"
