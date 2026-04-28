@@ -53,17 +53,6 @@
 
 <br/>
 
-<a href="https://github.com/Cristian-90210/Prezenta-LT-Ion-Pelivan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cristian-90210&repo=Prezenta-LT-Ion-Pelivan&theme=tokyonight&show_owner=true" />
-</a>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-70.4%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-22.6%25-3178C6?style=flat&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-6.9%25-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0.1%25-E34F26?style=flat&logo=html5&logoColor=white)
-
-</div>
-
 
 
 
